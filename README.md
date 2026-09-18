@@ -1,2 +1,26 @@
 # -yx-Collected-website-links
-Some useful websites for learning
+
+# 八股。项目
+https://programmercarl.com/
+
+# cs self-study
+https://csdiy.wiki
+
+# cppreference：EN & CN
+https://cppreference.com/
+https://cppreference.cn/w/
+
+# opencode 大模型api用量
+https://opencode.ai/zh/data
+
+# openrouter 大模型api用量
+https://openrouter.ai/rankings
+
+# SMS-RMB接码网站
+https://smsflow.cc/
+
+# alt + 小键盘
+https://blog.csdn.net/qq_38634754/article/details/81603721
+
+# 4k壁纸
+https://4kwallpapers.com/Awesome
